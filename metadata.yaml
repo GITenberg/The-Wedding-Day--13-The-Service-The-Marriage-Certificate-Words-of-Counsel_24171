@@ -1,0 +1,30 @@
+_repo: The-Wedding-Day--13-The-Service-The-Marriage-Certificate-Words-of-Counsel_24171
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Hurst, J. F. (John Fletcher)
+    alias: Hurst, John Fletcher
+    birthdate: 1834
+    deathdate: 1903
+    gutenberg_agent_id: '8646'
+    url: http://www.gutenberg.org/2009/agents/8646
+    wikipedia: http://en.wikipedia.org/wiki/John_Fletcher_Hurst
+description: ''
+gutenberg_issued: '2008-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24171'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Marriage'
+- !lcsh 'Marriage -- Gift books'
+- !lcc 'HQ'
+- !lcsh 'Marriage service'
+title: "The Wedding Day\r\nThe Service—The Marriage Certificate—Words of Counsel"
+url: http://www.gutenberg.org/ebooks/24171
