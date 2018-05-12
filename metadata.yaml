@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8646
     wikipedia: http://en.wikipedia.org/wiki/John_Fletcher_Hurst
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24171#The-Wedding-Day--13-The-Service-The-Marriage-Certificate-Words-of-Counsel
 gutenberg_issued: '2008-01-05'
 gutenberg_type: Text
 identifiers:
